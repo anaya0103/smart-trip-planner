@@ -112,7 +112,7 @@ This project is open-source under the **MIT License**.
 
 ## 👩‍💻 Author
 
-**Anaya**
+**Sunidhi**
 🌍 GitHub: [@anaya0103](https://github.com/anaya0103)
 
 
